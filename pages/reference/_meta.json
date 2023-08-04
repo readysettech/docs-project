@@ -1,0 +1,20 @@
+{
+    "caching": {
+      "display": "hidden"
+    },
+    "queries": {
+      "display": "hidden"
+    },
+    "dashboard": {
+      "display": "hidden"
+    },
+    "installer": {
+      "display": "hidden"
+    },
+    "troubleshooting": {
+      "display": "hidden"
+    },
+    "telemetry": "Telemetry",
+    "cli": "CLI"
+  }
+  
